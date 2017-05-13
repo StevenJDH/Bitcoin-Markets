@@ -3,7 +3,7 @@ This application monitors the Bitcoin markets with live up to the second data. I
 
 ![alt text](https://github.com/StevenJDH/Bitcoin-Markets/raw/master/bitcoin-ss.png "Screenshot")
 
-https://github.com/StevenJDH/Bitcoin-Markets
+Releases: https://github.com/StevenJDH/Bitcoin-Markets/releases
 
 Changelog: https://github.com/StevenJDH/Bitcoin-Markets/wiki/Changelog
 
