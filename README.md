@@ -1,7 +1,12 @@
 # Bitcoin Markets
-This application monitors the Bitcoin markets with live up to the second data. It accomplishes this by converting  a web page from bitcoinity.org to a local application for easier use. You can change the Bitcoin units from mBTC to BTC in the top right corner under preferences. Future features are planned, so stay tuned. 
 
-![Program Screenshot](https://github.com/StevenJDH/Bitcoin-Markets/raw/master/bitcoin-ss.png "Screenshot")
+![GitHub All Releases](https://img.shields.io/github/downloads/StevenJDH/Bitcoin-Markets/total)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/StevenJDH/Bitcoin-Markets?include_prereleases)
+![GitHub](https://img.shields.io/github/license/StevenJDH/Bitcoin-Markets)
+
+This application monitors the Bitcoin markets with live up to the second data. It accomplishes this by converting a web page from bitcoinity.org to a local application for easier use. You can change the Bitcoin units from mBTC to BTC in the top right corner under preferences. Future features are planned, so stay tuned. 
+
+![Program Screenshot](bitcoin-ss.png "Screenshot")
 
 Releases: [https://github.com/StevenJDH/Bitcoin-Markets/releases](https://github.com/StevenJDH/Bitcoin-Markets/releases)
 
@@ -15,15 +20,9 @@ Changelog: [https://github.com/StevenJDH/Bitcoin-Markets/wiki/Changelog](https:/
 * Other settings such as Bitcoin unit
 * Multiple currencies supported
 
-## Why am I contributing?
-This is just one of many tools and applications I’ve created over the years for myself that I thought I should share with the public. I am new to GitHub so bear with me while I get adjusted. Hopefully, with community support, some of these applications will grow into something better.
-
 ## Do you have any questions?
 Many commonly asked questions are answered in the FAQ:
 [https://github.com/StevenJDH/Bitcoin-Markets/wiki/FAQ](https://github.com/StevenJDH/Bitcoin-Markets/wiki/FAQ)
-
-## Need to contact me?
-I can be reached here directly at [https://21.co/stevenjdh](https://21.co/stevenjdh "Contact Page")
 
 ## Want to show your support?
 
